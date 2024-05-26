@@ -1,0 +1,33 @@
+.calculator-body {
+    width: 500px;
+}
+
+.calculator-body-container {
+    text-align: -webkit-center;
+}
+
+.calculator-row {
+    margin-bottom: 8px;
+}
+
+.calculator-col {
+    padding: 0px;
+    margin-left: 5px;
+    text-align: center
+}
+
+
+.calculator-total {
+    text-align: right;
+    margin-bottom: 20px;
+    font-size: 40px;
+    font-weight: bold;
+    word-break: break-all;
+}
+
+.calculator-total-detail {
+    text-align: right;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: lighter;
+}

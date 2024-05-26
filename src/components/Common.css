@@ -1,0 +1,21 @@
+.signin-submit-button-div{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center !important;
+}
+
+
+.container-background-color {
+    --bs-bg-opacity: 1;
+    background-color: #dddddd !important;
+  }
+
+
+  .loader-div {
+    position: absolute;
+    background-image: url("./loader.gif");
+    z-index: 100;
+    opacity: 1;
+    width: 500px;
+    height: 500px;
+  }
